@@ -1,0 +1,25 @@
+{
+  "laptops": [
+    {
+      "id": "unique_id_1",
+      "name": "Macbook 13",
+      "price": 1199.99,
+      "description": "512GB 16Gb Black",
+      "photo": "https://spb-apple.ru/image/cache/catalog/Add/Apple%20MacBook%20Air%20M1/e1ad3e9c1bca58d493196900a4c821d4-220x430.jpeg"
+    },
+    {
+      "id": "unique_id_2",
+      "name": "Macbook 14",
+      "price": 1499.99,
+      "description": "512GB 32Gb Gray",
+      "photo": "https://ispot.ru/upload/resize_cache/iblock/f4e/7emyel8oh3tnko5l63rdlcyspwf09ufv/500_500_1/e7ed3c34ddcdf0ee0174bdf10c8300d3.jpg"
+    },
+    {
+      "id": "unique_id_3",
+      "name": "Macbook 13 калич",
+      "price": 1299.99,
+      "description": "1024GB 64Gb Blue",
+      "photo": "https://apple11.ru/29146/apple-macbook-pro-16-2021-m1-pro-16-gb-512-gb-silver-mk1e3.jpg"
+    }
+  ]
+}
