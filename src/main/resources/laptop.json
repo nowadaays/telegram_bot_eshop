@@ -2,24 +2,24 @@
   "laptops": [
     {
       "id": "unique_id_1",
-      "name": "Macbook 13",
-      "price": 1199.99,
-      "description": "512GB 16Gb Black",
-      "photo": "https://spb-apple.ru/image/cache/catalog/Add/Apple%20MacBook%20Air%20M1/e1ad3e9c1bca58d493196900a4c821d4-220x430.jpeg"
+      "name": "Macbook 13 2016",
+      "price": 127999.99,
+      "description": "256 ГБ SSD , 8 ГБ оперативной памяти , Silver",
+      "photo": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111999_SP747_mbp13-silver.jpg"
     },
     {
       "id": "unique_id_2",
-      "name": "Macbook 14",
-      "price": 1499.99,
-      "description": "512GB 32Gb Gray",
-      "photo": "https://ispot.ru/upload/resize_cache/iblock/f4e/7emyel8oh3tnko5l63rdlcyspwf09ufv/500_500_1/e7ed3c34ddcdf0ee0174bdf10c8300d3.jpg"
+      "name": "Macbook 14 2023",
+      "price": 209999.99,
+      "description": "1 ТБ SSD ,  16ГБ оперативной памяти , Silver",
+      "photo": "https://i-store.net/_sh/59/5934.jpg"
     },
     {
       "id": "unique_id_3",
-      "name": "Macbook 13 калич",
-      "price": 1299.99,
-      "description": "1024GB 64Gb Blue",
-      "photo": "https://apple11.ru/29146/apple-macbook-pro-16-2021-m1-pro-16-gb-512-gb-silver-mk1e3.jpg"
+      "name": "Macbook 15 2019",
+      "price": 99999.99,
+      "description": "512 ГБ SSD , 32 ГБ встроенной памяти Silver",
+      "photo": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111941_sp776-mbp15touch-space.jpeg"
     }
   ]
 }
